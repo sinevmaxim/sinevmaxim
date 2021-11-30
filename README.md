@@ -1,10 +1,11 @@
 ### 👋 Hi, I’m @sinevmaxim
 
-[![Website](https://img.shields.io/website?label=maxsinev.vercel.app&style=for-the-badge&url=https%3A%2F%maxsinev.vercel.app)](https://maxsinev.vercel.app)
+[![Website](https://img.shields.io/website?label=maxsinev.vercel.app&style=for-the-badge&url=https%3A%2F%2Fmaxsinev.vercel.app)](https://maxsinev.vercel.app)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Max_Sinev?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSinevMaxim&screen_name=Max_Sinev)
 
 - 👀 I’m interested in Python, JavaScript, C++, AI and Machine Learning, Big Data and also Web development
 - 🌱 I’m currently learning everything 🤣
+- 🌃 Located in Russia, Moscow
 - ⚡ Fun fact: I love to play guitar and interestend in NFT
 
 
@@ -47,7 +48,7 @@
 
 
 
-[website]: https://maxsinev-vercel.app
+[website]: https://maxsinev.vercel.app
 [twitter]: https://twitter.com/Max_Sinev
 [instagram]: https://instagram.com/praymask
 [linkedin]: https://linkedin.com/in/maxim-sinev
