@@ -12,10 +12,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="MaxSinev Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Max Sinev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Max Sinev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Max Sinev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="MaxSinev Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://maxsinev-vercel.app]
+[<img align="left" alt="Max Sinev | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/Max_Sinev]
+[<img align="left" alt="Max Sinev | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][ https://linkedin.com/in/maxim-sinev]
+[<img align="left" alt="Max Sinev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][https://instagram.com/praymask]
 
 
 <br />
@@ -37,13 +37,6 @@
 [<img align="left" alt="Hadoop" width="26px" src="https://apache.org/logos/res/hadoop/hadoop-ozone.png" />]
 
 
-
-
-
-[website]: https://maxsinev-vercel.app
-[twitter]: https://twitter.com/Max_Sinev
-[instagram]: https://instagram.com/praymask
-[linkedin]: https://linkedin.com/in/maxim-sinev
 
 
 
